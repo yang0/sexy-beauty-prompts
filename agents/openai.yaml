@@ -1,0 +1,7 @@
+interface:
+  display_name: "含蓄魅力女性提示词"
+  short_description: "为 GPT Image 编写含蓄成熟的女性摄影提示词"
+  default_prompt: "使用 $sexy-beauty-prompts 为我写一条月下精灵女性摄影提示词。"
+
+policy:
+  allow_implicit_invocation: true
